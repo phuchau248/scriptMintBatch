@@ -1,0 +1,4 @@
+image,name,description,att_type_id,att_ranking_id,att_skin_type_id,att_durability,att_level,att_breed,att_base_strength,att_base_luck,att_base_enduring,att_base_comfort,att_base_beauty,att_cost
+https://static.sporte.net/1.png,pv21001,pv21001,1,1,1,1,1,1,1,1,1,1,1.1,1
+https://static.sporte.net/2.png,pv21002,pv21002,2,2,2,2,2,2,2,2,2,2,1.2,2
+https://static.sporte.net/3.png,pv21003,pv21003,3,3,3,3,3,3,3,3,3,3,1.3,3
